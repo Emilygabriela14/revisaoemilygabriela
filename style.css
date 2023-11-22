@@ -1,9 +1,12 @@
 body{
-    background-image: -webkit-linear-gradient( rgb(0, 128, 111), rgba(255, 192, 203, 0.253));
+    background-image: -webkit-linear-gradient( rgb(98, 0, 128), rgba(209, 192, 255, 0.973));
 }
 
 h1{
 font-size: xx-large;
 font-family: arial;
 color: black;
+}
+h2{
+    
 }
